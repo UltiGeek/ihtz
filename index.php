@@ -15,35 +15,21 @@
             <div class="flexslider">
                     <ul class="slides">
                         <li>
-                            <img src='images/slides/Slide_1.jpg' alt=''/>
+                            <a href="eco_village.php"><img src='images/slides/index/slide_1.jpg' alt=''/></a>
                         </li>
                         <li>
-                            <img src='images/slides/Slide_2.jpg' alt='' />
+                            <a href="tfc.php"><img src='images/slides/index/slide_2.jpg' alt='' /></a>
                         </li>
                         <li>
-                            <img src='images/slides/Slide_3.jpg' alt='' />
+                            <a href="eco_village.php"><img src='images/slides/index/slide_3.jpg' alt='' /></a>
                         </li>
                         <li>
-                            <img src='images/slides/Slide_4.jpg' alt='' />
+                            <a href="economic.php"><img src='images/slides/index/slide_4.jpg' alt='' /></a>
                         </li>
                         <li>
-                            <img src='images/slides/Slide_5.jpg' alt='' />
+                            <a href="eco_village.php"><img src='images/slides/index/slide_5.jpg' alt='' /></a>
                         </li>
-                        <li>
-                            <img src='images/slides/Slide_6.jpg' alt='' />
-                        </li>
-                        <li>
-                            <img src='images/slides/Slide_8.jpg' alt='' />
-                        </li>
-                        <li>
-                            <img src='images/slides/Slide_9.jpg' alt='' />
-                        </li>
-                        <li>
-                            <img src='images/slides/Slide_10.jpg' alt='' />
-                        </li>
-                        <li>
-                            <img src='images/slides/Slide_11.jpg' alt='' />
-                        </li>
+
                     </ul>
                 </div>
         </div>
@@ -54,7 +40,7 @@
                         <div class='mid_red_block'>
                             <div class='red_grass'>&nbsp;</div>
                             <br />
-                            <div class='red_block'>Water Projects</div>
+                            <div class='red_block'>Water Projects</a></div>
                         </div>
                     </th>
                     <th>
@@ -73,9 +59,9 @@
                     </th>
                 </tr>
                 <tr>
-                    <td><img src='img/water_pic.gif' alt='Tone La Huruma'/></td>
-                    <td><img src='img/children_together.gif' alt='Orphan Care Program' /></td>
-                    <td><img src='img/trees_for_change.gif' alt='Trees For Change' /></td>
+                    <td><a href="water.php"><img src='img/water_pic.gif' alt='Tone La Huruma'/></a></td>
+                    <td><a href="orphans.php"><img src='img/children_together.gif' alt='Orphan Care Program' /></a></td>
+                    <td><a href="environmental.php"><img src='img/trees_for_change.gif' alt='Trees For Change' /></a></td>
                 </tr>
             </table>
         </div><!-- thumbnails -->

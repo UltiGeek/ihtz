@@ -3,16 +3,15 @@
 
     <div id="top-bar">
         <!-- This contains the title and icon -->
-
-        <div id="twitIcon"><img src="images/twitter_64.png" width="64" height="64" alt="Twitter icon" /></div>
+        
         <!-- The twitter icon -->
-
-        <h2 class="tut">Islamic Help Tanzania</h2>
+        <div class='red_grass_tw'>&nbsp;</div>
+        <h2 class="tut"><img src="images/twitter_64.png"  height='30' alt="Twitter icon" />@iHelpTz</h2>
         <!-- Title -->
 
     </div>
 
-    <div id="tweet-container"><img id="loading" src="images/loading.gif" width="16" height="11" alt="Loading.." /></div>
+    <div id="tweet-container"><img id="loading" src="images/loading.gif" width="15" height="11" alt="Loading.." /></div>
     <!-- The loading gif animation - hidden once the tweets are loaded -->
 
     <div id="scroll"></div>
