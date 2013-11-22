@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="249895e0-e128-4062-9140-0e3eeb68bc32" name="Default" comment="">
       <change type="DELETED" beforePath="C:\wamp\www\ihtz\images\about_picture01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\ihtz\images\slides\Slide_1.jpg" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\ihtz\images\slides\Slide_10.jpg" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\ihtz\images\slides\Slide_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\ihtz\images\slides\Slide_2.jpg" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\ihtz\images\slides\Slide_3.jpg" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\ihtz\images\slides\Slide_4.jpg" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\ihtz\images\slides\Slide_5.jpg" afterPath="" />
@@ -17,15 +19,10 @@
       <change type="DELETED" beforePath="C:\wamp\www\ihtz\images\slides\index\slide4.jpg" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\ihtz\images\slides\index\slide5.jpg" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\ihtz\images\slides\index\slide6.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slides/qurbani/q1.jpg" afterPath="$PROJECT_DIR$/images/slides/qurbani/q1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slides/qurbani/q2.jpg" afterPath="$PROJECT_DIR$/images/slides/qurbani/q2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slides/index/slide_4.jpg" afterPath="$PROJECT_DIR$/images/slides/index/slide_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/twitter_64.png" afterPath="$PROJECT_DIR$/images/twitter_64.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/9ea05d6f8aa9d838a974cb98d465410a.cache" afterPath="$PROJECT_DIR$/includes/9ea05d6f8aa9d838a974cb98d465410a.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/footer.php" afterPath="$PROJECT_DIR$/includes/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qurbani.php" afterPath="$PROJECT_DIR$/qurbani.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slides/tfc/t1.jpg" afterPath="$PROJECT_DIR$/images/slides/tfc/t1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slides/tfc/t4.jpg" afterPath="$PROJECT_DIR$/images/slides/tfc/t4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slides/tonelahuruma/tlh_01.jpg" afterPath="$PROJECT_DIR$/images/slides/tonelahuruma/tlh_01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slides/tonelahuruma/tlh_02.jpg" afterPath="$PROJECT_DIR$/images/slides/tonelahuruma/tlh_02.jpg" />
     </list>
     <ignored path="ihtz.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -90,10 +87,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="qurbani.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="qurbani.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/qurbani.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="77" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.33687943">
+            <state line="33" column="7" selection-start="1920" selection-end="1920" vertical-scroll-proportion="-17.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="water.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/water.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="20" selection-start="2320" selection-end="2320" vertical-scroll-proportion="0.356974">
               <folding />
             </state>
           </provider>
@@ -389,13 +395,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="25" selection-start="1480" selection-end="1480" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/left_pane.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="57" column="10" selection-start="1636" selection-end="1636" vertical-scroll-proportion="0.0">
@@ -496,7 +495,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/qurbani.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="77" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.33687943">
+        <state line="33" column="7" selection-start="1920" selection-end="1920" vertical-scroll-proportion="-17.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/water.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="20" selection-start="2320" selection-end="2320" vertical-scroll-proportion="0.356974">
           <folding />
         </state>
       </provider>
