@@ -19,13 +19,9 @@
       <change type="DELETED" beforePath="C:\wamp\www\ihtz\images\slides\index\slide4.jpg" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\ihtz\images\slides\index\slide5.jpg" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\ihtz\images\slides\index\slide6.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slides/index/slide_3.jpg" afterPath="$PROJECT_DIR$/images/slides/index/slide_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/9ea05d6f8aa9d838a974cb98d465410a.cache" afterPath="$PROJECT_DIR$/includes/9ea05d6f8aa9d838a974cb98d465410a.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/events.php" afterPath="$PROJECT_DIR$/events.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/food.php" afterPath="$PROJECT_DIR$/food.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/somali.php" afterPath="$PROJECT_DIR$/somali.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/left_pane.php" afterPath="$PROJECT_DIR$/includes/left_pane.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/menu.php" afterPath="$PROJECT_DIR$/includes/menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tfc.php" afterPath="$PROJECT_DIR$/tfc.php" />
     </list>
     <ignored path="ihtz.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,6 +32,8 @@
     <file path="/footer.php" changelist="249895e0-e128-4062-9140-0e3eeb68bc32" time="1385124000714" ignored="false" />
     <file path="/twitter.php" changelist="249895e0-e128-4062-9140-0e3eeb68bc32" time="1385119995266" ignored="false" />
     <file path="/events.php" changelist="249895e0-e128-4062-9140-0e3eeb68bc32" time="1385126539678" ignored="false" />
+    <file path="/left_pane.php" changelist="249895e0-e128-4062-9140-0e3eeb68bc32" time="1385127333876" ignored="false" />
+    <file path="/menu.php" changelist="249895e0-e128-4062-9140-0e3eeb68bc32" time="1385127359119" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,15 +53,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="bootstrap.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6405" column="17" selection-start="131396" selection-end="131396" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="events.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/events.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -91,19 +80,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="eco_village.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="eco_village.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eco_village.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="44" selection-start="3316" selection-end="3316" vertical-scroll-proportion="0.14066194">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flexslider.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/flexslider/flexslider.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="30" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0">
+            <state line="52" column="85" selection-start="5037" selection-end="5037" vertical-scroll-proportion="-12.423077">
               <folding />
             </state>
           </provider>
@@ -139,7 +119,25 @@
       <file leaf-file-name="left_pane.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/left_pane.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="10" selection-start="1636" selection-end="1636" vertical-scroll-proportion="0.0">
+            <state line="77" column="10" selection-start="2252" selection-end="2252" vertical-scroll-proportion="-27.807692">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="29" selection-start="1263" selection-end="1263" vertical-scroll-proportion="-15.038462">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tfc.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tfc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="30" selection-start="4368" selection-end="4368" vertical-scroll-proportion="0.3817967">
               <folding />
             </state>
           </provider>
@@ -172,6 +170,9 @@
         <option value="$PROJECT_DIR$/events.php" />
         <option value="$PROJECT_DIR$/somali.php" />
         <option value="$PROJECT_DIR$/food.php" />
+        <option value="$PROJECT_DIR$/includes/left_pane.php" />
+        <option value="$PROJECT_DIR$/includes/menu.php" />
+        <option value="$PROJECT_DIR$/tfc.php" />
       </list>
     </option>
   </component>
@@ -411,13 +412,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6245" column="1" selection-start="128576" selection-end="128576" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/flexslider/flexslider.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="35" selection-start="534" selection-end="534" vertical-scroll-proportion="0.0">
@@ -435,20 +429,6 @@
     <entry file="file://$PROJECT_DIR$/css/flexslider/flexslider.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="30" selection-start="498" selection-end="498" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tfc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="14" selection-start="4889" selection-end="4889" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/left_pane.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="10" selection-start="1636" selection-end="1636" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -518,7 +498,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/eco_village.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="44" selection-start="3316" selection-end="3316" vertical-scroll-proportion="0.14066194">
+        <state line="52" column="85" selection-start="5037" selection-end="5037" vertical-scroll-proportion="-12.423077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/left_pane.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="10" selection-start="2252" selection-end="2252" vertical-scroll-proportion="-27.807692">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="29" selection-start="1263" selection-end="1263" vertical-scroll-proportion="-15.038462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tfc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="30" selection-start="4368" selection-end="4368" vertical-scroll-proportion="0.3817967">
           <folding />
         </state>
       </provider>

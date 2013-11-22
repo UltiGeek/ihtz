@@ -35,7 +35,7 @@
                         <h1>Plant Nursery <img src='images/tfc/trees_for_change_logo_60px.jpg' alt='' class='pull-right'/></h1>
                         <br />
                         <p>Increasing charcoal and timber production, inefficient use of land for agriculture, mining and expansion of human habitation are among the primary causes for deforestation in Tanzania. Inevitably this has led to receding ground water levels, vulnerability to food insecurity, land degradation and, in the bigger picture, the effects of climate change.
-                        <p>To combat some of these, Islamic Help in Tanzania has launched a major tree planting campaign, Trees for Change. About 30,000 trees of different species, including fruit trees, will be planted and distributed in villages.
+                        <p>To combat some of these, Islamic Help Tanzania has launched a major tree planting campaign, Trees for Change. About 30,000 trees of different species, including fruit trees, will be planted and distributed in villages.
                         <p>In the long term, it will not only offset the effects of deforestation and climate change but also allow communities to nurture their own nurseries, earn livelihoods, learn agricultural techniques and even improve soil quality and the purity of water sources.
 
                         <p>Trees for Change aims to:
