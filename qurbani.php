@@ -35,6 +35,19 @@
                         <li>
                             <img src='images/slides/qurbani/q7.jpg' alt='' />
                         </li>
+                        <li>
+                            <img src='images/slides/qurbani/q8.jpg' alt='' />
+                        </li>
+                        <li>
+                            <img src='images/slides/qurbani/q9.jpg' alt='' />
+                        </li>
+                        <li>
+                            <img src='images/slides/qurbani/q10.jpg' alt='' />
+                        </li>
+                        <li>
+                            <img src='images/slides/qurbani/q11.jpg' alt='' />
+                        </li>
+
                     </ul>
                 </div>
             <p>Islamic Help Tanzania is now providing Qurbani for the third year in a row; the project targets all the orphans who are directly registered with the organization and their immediate siblings, relatives and other people in Islamic Help&rsquo;s operational areas.</p>

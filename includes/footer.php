@@ -9,7 +9,7 @@
     <div class='black_grass_footer'></div>
     <div class='container'>
         <div class='row'>
-            <div class='span2'><img src='img/ih_black_logo.jpg' alt='Islamic Help' /></div>
+            <div class='span2'><img src='img/ih_black_logo.png' alt='Islamic Help' /></div>
             <div class='span10'>
                 <table class='span10'>
                     <tr>

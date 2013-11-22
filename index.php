@@ -29,6 +29,9 @@
                         <li>
                             <a href="eco_village.php"><img src='images/slides/index/slide_5.jpg' alt='' /></a>
                         </li>
+                        <li>
+                            <a href="smallhands.php"><img src='images/slides/index/slide_6.jpg' alt='' /></a>
+                        </li>
 
                     </ul>
                 </div>
