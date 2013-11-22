@@ -20,6 +20,7 @@
             <img src='images/slides/somaliaa/som_mid_8.jpg' alt='' width="344"/>
             <img src='images/slides/somaliaa/som_mid_7.jpg' alt='' width="344"/>
             <p>Islamic Help Tanzania agreed on a joint intervention in Somalia with Somali Relief and Development Forum (SRDF), Programme on Life Emergency (POLE) and various local organisations. The joint intervention responded through deploying a convoy of three trucks carrying 125MT of food aid and other items such as wheat, flour, rice, maize, dates, sugar and nutritional supplements. In addition, Islamic Help Tanzania raised considerable awareness about the conditions in Somalia paving the way for a community owned response from Tanzanians to the people of Somalia displaying African unity and solidarity. </p>
+            <iframe width="690" height="400" src="//www.youtube.com/embed/dT2vOZf0Ve4" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
 </div>
